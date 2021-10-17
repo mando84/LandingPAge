@@ -1,0 +1,29 @@
+*{
+   
+  
+}
+
+header {
+    background-color: #1F2937;
+    height:50px;
+    color: #F9FAF8;
+    position:absolute;
+    left:0;
+    right:0;
+    font-size: 2rem;
+    padding: 0 200px;
+    display: flex;
+    align-items: center;
+    
+}
+
+h6 {
+    color:lawngreen;
+}
+
+header, h6 {
+    font-family:italic;
+    color: khaki;
+}
+
+
